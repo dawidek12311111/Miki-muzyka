@@ -1,0 +1,19 @@
+{
+  "name": "Muzyczne Klocki",
+  "short_name": "Klocki",
+  "description": "Aplikacja dla dzieci do tworzenia muzyki z kolorowych klocków.",
+  "lang": "pl",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#231d52",
+  "theme_color": "#231d52",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
